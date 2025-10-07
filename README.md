@@ -26,9 +26,9 @@ This program allows managing books and users using a clean, menu-driven interfac
 🧩 Project Structure
 ------------------------------------------------------------
 LibraryManagementSystem_CodeBlocks/
- ├─ main.cpp
- ├─ README.txt
- └─ LibraryManagementSystem.cbp
+ main.cpp
+ README.txt
+ LibraryManagementSystem.cbp
 
 ------------------------------------------------------------
 ⚙️ Setup and Run (Code::Blocks)
@@ -42,9 +42,9 @@ LibraryManagementSystem_CodeBlocks/
 ------------------------------------------------------------
 🧾 Example Run
 ------------------------------------------------------------
-==============================
+
         MAIN MENU
-==============================
+
 1. Add Book
 2. Search Books By Prefix
 3. Print Who Borrowed Book By Name
@@ -73,8 +73,7 @@ Book added successfully with ID: 0
 ------------------------------------------------------------
 🧑‍💻 Author
 ------------------------------------------------------------
-Ahmed Gamal
-Embedded Engineer at SwiftAct
+Ahmed Reslan
 Cairo, Egypt
 
 ------------------------------------------------------------
